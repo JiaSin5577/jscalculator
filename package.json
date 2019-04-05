@@ -1,0 +1,23 @@
+{
+  "name": "jscalculator",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JiaSin5577/jscalculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JiaSin5577/jscalculator/issues"
+  },
+  "homepage": "https://github.com/JiaSin5577/jscalculator#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  },
+  "devDependencies": {},
+  "description": ""
+}
